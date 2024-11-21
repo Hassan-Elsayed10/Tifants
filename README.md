@@ -1,5 +1,5 @@
-# Food-Delivery-App-React-Native
-food delivery application that revolutionizes the way you order and enjoy your favorite meals. With an emphasis on speed, convenience.    
+# Tifants-App-React-Native
+Developed a daycare management app to streamline operations, including attendance tracking, activity feeds with PDF reporting, billing, expenses, and parent communication. Features include room management, multi-center support, newsletters, and a job portal for vacancies.    
 ![](https://github.com/Hassan-Elsayed10/FoodDelivery/blob/main/FoodDelivery.gif)
 
 </p>
