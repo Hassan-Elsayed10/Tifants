@@ -1,6 +1,6 @@
 # Tifants-App-React-Native
 Developed a daycare management app to streamline operations, including attendance tracking, activity feeds with PDF reporting, billing, expenses, and parent communication. Features include room management, multi-center support, newsletters, and a job portal for vacancies.    
-![](https://github.com/Hassan-Elsayed10/Tifants/blob/main/TifantsApp.gif.mp4)
+![]((https://github.com/Hassan-Elsayed10/Tifants/blob/main/Tifants.gif))
 
 </p>
 
